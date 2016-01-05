@@ -12,4 +12,4 @@ Click the "Sign Up" button in the top right to create one, then come back here.
 
 Great. Click below to complete the enrollment process. You'll need to give us some (public) info.
 
-[![Click here to get started](http://i.imgur.com/FlH4Uav.jpg)](https://github.com/cs210/Onboarding/issues/new?labels=enroll&title=Enrollment+request&body=%23%23+Enrollment+request%0A**Full+name:**+here%0A**Stanford+email:**+here%0A**Favorite+animal%3F**+here%0A+**Favorite+animated+movie%3F**+here)
+[![Click here to get started](http://i.imgur.com/pOJw3gb.png)](https://github.com/cs210/Onboarding/issues/new?labels=enroll&title=Enrollment+request&body=%23%23+Enrollment+request%0A**Full+name:**+here%0A**Stanford+email:**+here%0A**Favorite+animal%3F**+here%0A+**Favorite+animated+movie%3F**+here)
